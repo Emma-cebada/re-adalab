@@ -1,0 +1,16 @@
+En el ejercicio nos han dado tanto el código del html como la parte entre los comentarios del css. Por lo que partiendo del código dado:
+
+1.¿Por qué los enlaces son verdes y no rojos?
+Por que de la linea 29 a la 30 en el archivo de css se le está dando el color verde usando la clase que le hemos asignado a los enlaces en el html.
+
+2.Hacer que los enlaces sean rojos.
+Hecho.
+
+3.Rehacer el HTML usando <div> en lugar de <ul> y <li>. ¿Qué pasa?
+Que se van todos los estilos excepto el de los enlaces rojos.
+
+4.Comentar el CSS que no se puede tocar y reescribirlo usando solo selectores de clase, es decir, sin utilizar selectores de etiqueta.
+Así vuelven los estilos que teníamos aplicados con el código que nos dieron.
+
+5.BONUS: Cambiar ahora entre <div> y <ul>/<li>.
+Hecho. Se queda todo igual, excepto los enlaces que son rojos.
