@@ -1,0 +1,29 @@
+.title {
+  text-align: center;
+}
+.container {
+  border: 1px solid darkblue;
+}
+
+.col {
+  margin-left: 50px;
+  display: inline-block;
+  width: 300px;
+  vertical-align: top;
+}
+
+.container--1 {
+  height: 100px;
+  width: 200px;
+  overflow: hidden;
+}
+
+.container--2 {
+  height: 200px;
+  overflow: scroll;
+}
+
+.container--3 {
+  width: 100px;
+  overflow-y: scroll;
+}
