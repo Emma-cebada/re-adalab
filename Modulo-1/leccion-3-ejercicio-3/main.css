@@ -1,4 +1,23 @@
-.img {
-  width: 100px;
+.block {
   height: 100px;
+  width: 100px;
+  /* display: block; */
+  display: inline;
+  /* display: inline-block; */
+}
+
+.inline {
+  height: 100px;
+  width: 100px;
+  /* display: block; */
+  /* display: inline; */
+  display: inline-block;
+}
+
+.inline-block {
+  height: 100px;
+  width: 100px;
+  /* display: block; */
+  /* display: inline; */
+  display: inline-block;
 }
