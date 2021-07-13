@@ -1,0 +1,51 @@
+:root {
+  --brand-color1: grey;
+  --brand-color2: green;
+  --brand-color3: #eaeaea;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: var(--brand-color3);
+  padding: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+p {
+  width: 50%;
+  font-size: 16px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.title {
+  color: var(--brand-color1);
+  margin: 0;
+}
+
+.subtitle {
+  color: var(--brand-color1);
+  margin: 0;
+}
+
+.menu li {
+  display: inline;
+}
+
+.menu a {
+  color: var(--brand-color2);
+  text-decoration: none;
+}
+
+p a {
+  color: var(--brand-color2);
+}
